@@ -1,0 +1,20 @@
+@media (max-width:480px) {
+
+}
+@media (max-width:1050px) {
+  .pluses {
+    padding-bottom: 40px;
+  }
+  .pluses__leftblock {
+    display: none;
+  }
+  .pluses__header {
+    position: static;
+    width: 70%;
+    margin-left: 10%;
+    padding: 50px 0;
+  }
+  .pluses__rightblock {
+  }
+
+}
